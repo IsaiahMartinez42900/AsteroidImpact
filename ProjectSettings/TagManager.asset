@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - GreenBunker
+  - BlueBunker
+  - RedBunker
+  - GreenCharacter
+  - BlueCharacter
+  - RedCharacter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ResultText
+    uniqueID: 776701157
+    locked: 0
+  - name: Bunker 1
+    uniqueID: 2289613793
+    locked: 0
+  - name: Bunker 2
+    uniqueID: 719500591
+    locked: 0
+  - name: Bunker 3
+    uniqueID: 2634661099
+    locked: 0
+  - name: Character 1
+    uniqueID: 2405419229
+    locked: 0
+  - name: Character 2
+    uniqueID: 1148004157
+    locked: 0
+  - name: Character 3
+    uniqueID: 1666010893
+    locked: 0
+  m_RenderingLayers:
+  - Default
