@@ -19,13 +19,13 @@ public class GameManager : MonoBehaviour
     
     void Start()
     {
-        
+        resultText.text = "";
     }
 
    
     void Update()
     {
-
+        if (GameOver) { return; }
         if (gametimeElapsed < gameDuration)
         {
             //asteroid moving
